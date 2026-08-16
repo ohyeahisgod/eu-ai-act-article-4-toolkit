@@ -1,0 +1,3 @@
+record_status,system_name,provider,organisation_role,intended_purpose,actual_users,data_categories,affected_people,owner,human_oversight,risk_status,next_review_date
+EXAMPLE,Meeting summary assistant,Example vendor,deployer,Create internal meeting summaries,Operations team,Internal business information,Employees,Head of Operations,User checks every summary before circulation,review_required,2026-11-16
+EXAMPLE,Candidate screening support,Internal team and vendor,both,Support initial application review,Recruitment team,Candidate personal data,Job applicants,Head of People,Recruiter reviews evidence and can override every recommendation,potential_high_risk_confirm_with_counsel,2026-09-16

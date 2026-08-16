@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If this toolkit supports your work, cite the repository and link to the current version."
+title: "EU AI Act Article 4 Operational Toolkit"
+type: dataset
+authors:
+  - name: "Prooflane"
+repository-code: "https://github.com/ohyeahisgod/eu-ai-act-article-4-toolkit"
+url: "https://prooflane.coincroupier.workers.dev/tools/ai-literacy-matrix"
+license: MIT
+version: 1.0.0
+date-released: 2026-08-16

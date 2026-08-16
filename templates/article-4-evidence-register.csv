@@ -1,0 +1,3 @@
+record_status,record_id,ai_system,audience_or_person,measure_type,measure_title,content_version,delivered_date,result_or_acknowledgement,evidence_location,owner,next_review_date
+EXAMPLE,EV-001,Meeting summary assistant,Operations team,scenario_assessment,Safe use and output verification,v1.0,2026-08-12,Completed with 90 percent score,Internal evidence repository reference,Head of Operations,2027-08-12
+EXAMPLE,EV-002,Candidate screening support,Recruitment reviewers,observed_exercise,Meaningful human oversight,v1.1,2026-08-14,Reviewer demonstrated override and escalation,Internal evidence repository reference,Head of People,2027-02-14
