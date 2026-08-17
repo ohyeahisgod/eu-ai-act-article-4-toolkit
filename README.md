@@ -11,6 +11,7 @@ This toolkit is for organisations that provide or deploy AI systems and for advi
 3. Adapt [`templates/responsible-ai-use-policy.md`](templates/responsible-ai-use-policy.md) to your approved tools and actual risks.
 4. Record dated measures and follow-up in [`templates/article-4-evidence-register.csv`](templates/article-4-evidence-register.csv).
 5. Use the [`30-day implementation guide`](guides/30-day-implementation-guide.md) to test whether a reviewer can follow the evidence without relying on interviews.
+6. See how the records connect in the [complete fictional recruitment AI evidence pack](examples/fictional-recruitment-ai-evidence-pack.md).
 
 Prefer an interactive starting point?
 
@@ -36,7 +37,7 @@ Primary sources:
 - [EU AI Act Service Desk — Article 4](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-4)
 - [Regulation (EU) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
 
-Sources last checked: 16 August 2026.
+Sources last checked: 17 August 2026.
 
 ## What these files do not prove
 
